@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": { 
+        "namespace": "android_app", 
+        "package_name": "com.wilfredalmeida.solflixprime",
+        "sha256_cert_fingerprints": ["52:FD:0A:C1:79:D0:7D:1E:94:B5:AA:FA:88:7C:07:87:C5:21:C1:8C:A4:A2:7C:32:F5:6F:39:F3:00:9F:6F:38"]
+    }
+}]
